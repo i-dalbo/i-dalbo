@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @i-dalbo
-- 👀 I’m interested in data science, analytics, python, sports 
-- 🌱 I’m currently learning plotly dash integration
-- 💞️ I’m looking to collaborate on ML/AI projects, dashboards, pipelines
+- 👀 I’m interested in data engineer, analytics, python, sports 
 - 📫 How to reach me igor.dal.bo@factorypal.com
 
 <!---
